@@ -22,3 +22,7 @@ Thumbs.db
 data/
 testdata/
 .meta.json
+
+# 🔒 Ignore archived dev builds, but keep the folder
+archive/dev_builds/*
+!archive/dev_builds/.keep

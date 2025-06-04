@@ -1,0 +1,479 @@
+id,title,created_at,model
+68226f87-0fe4-8001-ac97-80e74b7bf9a3,Rehash CLI Help,2025-05-12 22:00:39,unknown
+681a8b7a-3638-8001-92ed-598b920b26d0,phd-fitness-0506,2025-05-06 22:21:46,unknown
+68225d8f-97e0-8001-817a-a4d2175726b1,Fit to JSON Automation,2025-05-12 20:44:00,unknown
+681f55a3-3e84-8001-a90d-3463067352eb,jake-rehash-v0.3.x-repo-build,2025-05-10 13:33:24,unknown
+6821edf1-c3ac-8001-80fe-87518882a9d3,Auth0 2FA Recovery Options,2025-05-12 12:47:46,unknown
+682245e4-0704-8001-8349-1a9d37716cf6,Add TOTP to Bitwarden,2025-05-12 19:03:00,unknown
+68221c6a-52a4-8001-ac77-406cee30cbda,Random Number List Excel,2025-05-12 16:06:03,unknown
+6820f8da-1e88-8001-8e64-a9f6da4c72d3,JSON Fix and Cleanup,2025-05-11 19:22:02,unknown
+6820c6ba-0ca0-8001-a8e1-92c28b7be128,VS Code Wayland Crash Debug,2025-05-11 15:48:10,unknown
+680f8875-b274-8001-a889-038c97e4c1bf,4o-ThisIsNotWidenexCodeJake-rebash-dev/v0.2.x,2025-04-28 13:53:57,unknown
+681e04ce-de78-8001-8b1b-bea074762945,Wayland Screenshot Freeze Fix,2025-05-09 13:36:15,unknown
+681b36bd-3098-8001-a38a-4aa6be1c2268,jake-healthfit-guardrails-2.3,2025-05-07 10:32:29,unknown
+681b38ee-dd34-8001-9f10-e0203d08f3e9,jake-Guardrails Enforcement Summary,2025-05-07 10:41:51,unknown
+67fcfa45-4ffc-8001-a076-7fe3be5c7a5d,phd-fitness-origin->gpt-4o,2025-04-14 12:06:29,unknown
+67c9e749-c330-8001-96fc-556abaaa7813,4o-NFS permissions troubleshooting,2025-03-06 18:19:54,unknown
+681b6ae6-9620-8001-ace4-72bbd161aa55,jake-guardrail-rev2.2.2->3,2025-05-07 14:15:02,unknown
+681bf02b-8880-8001-a347-fd51258b421f,Stand Your Ground Overview,2025-05-07 23:43:39,unknown
+681c05a2-7f58-8001-91ba-3d58c7375341,RustDesk Wayland Login Fix,2025-05-08 01:15:14,unknown
+681b70e4-0644-8001-a2fa-30a3437fb19f,jake-NFS Setup Glider Hiker,2025-05-07 14:40:36,unknown
+6811492d-9894-8001-8488-5f956021e7bb,jake-guardrails-v2.2.2-gippety-integrity-rollout,2025-04-29 21:48:29,unknown
+68123d75-8e68-8001-b8cd-ec1f7a7083af,GPT4o-homie-origin->gdrive-sync,2025-04-30 15:10:45,unknown
+681a3c1c-640c-8001-a72d-5c7e249b0538,4o-Inotify-harden-rebash,2025-05-06 16:43:08,unknown
+681675f7-dde4-8001-937f-a5a3ea5ccb56,phd-workout-log-reconstruction,2025-05-03 20:00:56,unknown
+680f6cf3-af18-8001-899e-6a1d0b7d584c,alric (was phd)-fitness-04-28->5-6 (borked),2025-04-28 11:56:35,unknown
+68149698-dc00-8001-98d0-7d270489dc96,alric-(was jake)-fitness-repo-dgpt ,2025-05-02 09:55:37,unknown
+6817b93e-f8f0-8001-a9c3-70adc7d25eba,4o (started jake)-workout-logs,2025-05-04 19:00:15,unknown
+681a4c8f-5b34-8001-9924-9ddce0391e35,Highlight Blank Cells Excel,2025-05-06 17:53:19,unknown
+681a2cfa-6144-8001-84a0-b1424576fc32,iSH F2 Key Usage,2025-05-06 15:38:34,unknown
+67fe775d-0408-8001-927f-a7f54efa3e5f,DoD Weekly Bullet Update,2025-04-15 15:12:29,unknown
+681a1b4b-fe2c-8001-bbd1-147ee5c193b8,Prevent DSM 7 Timeout,2025-05-06 14:23:08,unknown
+6818ecc8-290c-8001-9fd5-f9fc7cd3f729,jake-sync-projects-gdrive,2025-05-05 16:52:24,unknown
+67eee6b5-53dc-8001-9666-a9005d754f0f,Roth IRA 2026 Limits,2025-04-03 19:51:17,unknown
+67f03f6b-9d68-8001-8c01-5633b56f96c9,Minimal Fast Browsers Ubuntu,2025-04-04 20:22:04,unknown
+67f2d04e-4180-8001-bf81-6ddf596261d0,UEFI dbx Update 안내,2025-04-06 19:04:46,unknown
+67f53c05-b8d4-8001-861d-4f41a95106d0,PQE vs SWQE Roles,2025-04-08 15:08:53,unknown
+67f84699-8424-8001-b486-b59f4e6ce488,Meh Apathy Chronicles,2025-04-10 22:30:49,unknown
+67f9d8dd-abe0-8001-8611-d3684f3d79ea,Download Files from ChatGPT,2025-04-12 03:07:09,unknown
+67f99dae-1760-8001-9a36-b2810088d9c8,code hash_health rev12-patch8,2025-04-11 22:54:38,unknown
+67faeda5-1568-8001-934d-922487b1db96,Split repo ,2025-04-12 22:48:05,unknown
+680502b9-435c-8001-9a3f-84535ef1623d,touchp()-create-file-with-dirs,2025-04-20 14:20:41,unknown
+68066ce7-6ef8-8001-8415-eac6bc7ac89e,ChatGPT  Selective File Merge,2025-04-21 16:05:59,unknown
+6807c17b-42c8-8001-a46c-74d56628e130,Check and Pull Repo,2025-04-22 16:19:07,unknown
+680282a5-515c-8001-9f77-0da9593fa4d9,Zepbound vs Wegovy Costs,2025-04-18 16:49:41,unknown
+6801734d-7978-8001-a939-88837eee357b,2017 Bluetooth Issues,2025-04-17 21:31:57,unknown
+67ffef3e-478c-8001-8bab-46c476f42646,Microwave Bulb Replacement Guide,2025-04-16 17:56:14,unknown
+67fd1a41-6288-8001-a820-3c226d558277,Search text in PDFs,2025-04-14 14:22:57,unknown
+67fc6c22-557c-8001-b533-c45d551cf9a4,Restart Portainer Ubuntu,2025-04-14 02:00:02,unknown
+67fbe946-e328-8001-88a3-5bb21378ebe3,OpenAI password login setup,2025-04-13 16:41:43,unknown
+67fbd1ce-2c3c-8001-901c-f690799e0d4f,Unignore Download in Sonarr,2025-04-13 15:01:34,unknown
+67f98a33-e080-8001-a32f-d4b676547c8a,Tax Deduction for Relocation,2025-04-11 21:31:32,unknown
+67f86e97-46fc-8001-a8e9-c726d92b1009,Meld not starting Ubuntu,2025-04-11 01:21:27,unknown
+68059ec1-4d4c-8001-b4d6-396308c25142,Infra Sync jake2,2025-04-21 01:26:25,unknown
+6803f774-59dc-8001-bbd0-3afb73241ff0,_x_jake guardrails to Infa save 0.6,2025-04-19 19:20:20,unknown
+680cd9b9-49d8-8001-b440-28bb3212c14a,Jeep Tire Air Down,2025-04-26 13:03:53,unknown
+680f70ac-2fa4-8001-81b4-b8456ff5408b,Export ChatGPT Data,2025-04-28 12:12:28,unknown
+680fa14f-8abc-8001-9265-377b6173b3c2,ChatGPT Export Tool Names,2025-04-28 15:39:59,unknown
+680fbc22-984c-8001-b4d9-82615ecd1649,gpt4o-degipety-file-execution-debug:,2025-04-28 17:34:26,unknown
+680d762e-11f8-8001-bc8b-5d4990738dd1,docker-expert-calibre,2025-04-27 00:11:26,unknown
+6813c1f9-3388-8001-92f4-b09d88cd7d85,jake-homie,2025-05-01 18:48:26,unknown
+681629f7-63bc-8001-98a1-620beba41f1b,phd-rehydrate-program-progress,2025-05-03 14:36:39,unknown
+6810c028-2ca4-8001-9ef1-7d4f1e15e7d9, jake-sync-readarr-calibre-cli,2025-04-29 12:03:52,unknown
+6810ce66-1324-8001-b80f-e74cbbaae558,jake-calibarr-genesis,2025-04-29 13:04:38,unknown
+68142f0b-7af8-8001-8215-57a1eb665b84,gpt4o-fitness-rehydration-reconstruction,2025-05-02 02:33:47,unknown
+6813e894-2904-8001-9449-74c02bf1ccd7,Aux Weight Solutions Hoist,2025-05-01 21:33:08,unknown
+6814bee4-4cd8-8001-a42a-260e2ff2ae84,OSL Address Formatting,2025-05-02 12:47:32,unknown
+68178b64-d0c4-8001-944c-7279fd86f6c6,HEIC to JPG Converter,2025-05-04 15:44:37,unknown
+6818c092-65d4-8001-a3b4-ffc7cf907975,Movie Her Summary,2025-05-05 13:43:46,unknown
+6803c3d1-5320-8001-8e8f-93e3899ea647,jake-degipety-import,2025-04-19 15:40:01,unknown
+6813947b-5610-8001-98f3-dee3facad5df,Refurbished iPhone 15 Sale,2025-05-01 15:34:19,unknown
+681366a6-2694-8001-bd1f-ff05175eeba7,FY25 STRL,2025-05-01 12:18:46,unknown
+67d056f7-dfd8-8001-8074-ce5e2b6b59e6,Bullets 3/11,2025-03-11 15:30:00,unknown
+680faf65-e054-8001-9357-87f88d804385,jake-gippety-extractor-rebuild,2025-04-28 16:40:06,unknown
+681339f7-e328-8001-8669-39d6eb5b7543,Git aliases summary,2025-05-01 09:08:08,unknown
+68121cba-2704-8001-8a34-f806fae826c7,APS vs APG Radar,2025-04-30 12:51:06,unknown
+68114c17-0510-8001-b345-0f05565387c5,Canonical Requirements Summary,2025-04-29 22:00:55,unknown
+680fdbbd-100c-8001-b5cb-0d89fe4a9df4,Display first 10 lines,2025-04-28 19:49:17,unknown
+6810ed9b-7020-8001-afb3-cddb94d601c9,Bashrc Cleanup and Split,2025-04-29 15:17:47,unknown
+680f7434-a8a4-8001-ba9f-73f05f6eb0d1,gpt4o-date-table-merge,2025-04-28 12:27:32,unknown
+680f8e0f-3c6c-8001-947e-70ab8f75f5f7,ZIP File Listing CMD,2025-04-28 14:17:51,unknown
+680f437b-bfa8-8001-9c8b-a0166bd07c1e,jake-guardrails-v2.1-hardening,2025-04-28 08:59:40,unknown
+680e7850-2adc-8001-a9c2-96db910f9744,jake-git-config,2025-04-27 18:32:48,unknown
+67f2aa46-17a8-8001-bda6-7301951d1728,Firefox Performance Tweaks,2025-04-06 16:22:30,unknown
+680a5c78-04d4-8001-b84c-244054238618,Alric,2025-04-24 15:44:56,unknown
+6807cbd3-ee64-8001-9c1d-9c0e6ca06e1e,Code Copy Cleanup,2025-04-22 17:03:16,unknown
+68077180-affc-8001-95d0-1a3437eb7044,INFRA SAVE Mission Resume,2025-04-22 10:37:53,unknown
+6808f72f-177c-8001-a963-d70eb8f8ae4d,Infra Save Payloads Explained,2025-04-23 14:20:31,unknown
+680a9156-e10c-8001-a779-9ee049fbadb1,Alric Origin,2025-04-24 19:30:31,unknown
+680a59b0-cd80-8001-93f4-310ff1f75e98,gpt downloads reseatch,2025-04-24 15:33:05,unknown
+68090858-cb50-8001-8a2f-784c7172e22f,smuggle,2025-04-23 15:33:44,unknown
+680a90e7-5b3c-8001-bac5-46e2e8bb3c6b,Persona Name Suggestion,2025-04-24 19:28:39,unknown
+68092f57-463c-8001-a70b-c8209301601a,ChatGPT CLI Setup,2025-04-23 18:20:07,unknown
+6807b0c9-6f58-8001-a3e1-e7bbeca30717,Hello World Python Code,2025-04-22 15:07:53,unknown
+680567b5-67e4-8001-8513-d04b27c6960e,Sync Blueprint Design Jake Failed,2025-04-20 21:31:33,unknown
+680542f1-7938-8001-b00d-e48ea12c91be,EGO Z6 Tire Pressure,2025-04-20 18:54:41,unknown
+67fb1604-5d3c-8001-aadc-7be0ef80b49b,MacBook Pro Speed Boost,2025-04-13 01:40:20,unknown
+67fae49b-0840-8001-b1bf-866da45532cf,Mentor Mode Activation,2025-04-12 22:09:31,unknown
+67eec5e0-3260-8001-b785-a24c67cb658e,Speeding Up Windows for RDP,2025-04-03 17:31:12,unknown
+67ffa6d3-116c-8001-a34e-5f6d85d71edc,Tmux vimdiff session,2025-04-16 12:47:15,unknown
+67fea882-ff58-8001-ac62-ec0ebc180b0c,Git commit details,2025-04-15 18:42:11,unknown
+67fbe6c9-2be0-8001-bcbf-65c4a6c34638,Disk I/O Activity Analysis,2025-04-13 16:31:06,unknown
+67f9f438-c044-8001-b879-7466d0b4ecbb,Python code help,2025-04-12 05:03:53,unknown
+67fa9db8-a534-8001-8a7d-80b099299379,Git file move history,2025-04-12 17:07:04,unknown
+67f84815-e724-8001-a12c-ad106be0db59,(new ai) hash_heath.rev12-patch6,2025-04-10 22:37:10,unknown
+67f962a9-edcc-8001-9e22-e2a6ed879339,High CPU Temps Fan Speed,2025-04-11 18:42:50,unknown
+67f7a964-edc8-8001-9190-6783c87134b9,rev12-patch6 strict,2025-04-10 11:20:05,unknown
+67f7bad5-d630-8001-895d-b076f47774cf,Using vimdiff keyboard,2025-04-10 12:34:30,unknown
+67f8666d-6f24-8001-9647-b5d4d3985b67,Michael the Systems Architect,2025-04-11 00:46:37,unknown
+67f7ce9e-558c-8001-a4a3-e3f66acec7aa,SFTP over Tailscale iPhone,2025-04-10 13:58:54,unknown
+67ebeffc-7074-8001-937e-07c9644d8277,Session Start Chat,2025-04-01 13:54:07,unknown
+67f7b66f-31b0-8001-9d09-04dc030a4d2d,Tmux move pane window,2025-04-10 12:15:45,unknown
+67f7b57b-5154-8001-916c-bd57f6672dc8,Tmux new session,2025-04-10 12:11:40,unknown
+67f7b356-9464-8001-911a-21a5b1ef84a7,Install and Test Diff Tools,2025-04-10 12:02:30,unknown
+67f79b0f-bdc8-8001-820b-14e93e6629a4,Hash Health Patch Update,2025-04-10 10:18:56,unknown
+67f73dca-16f8-8001-8085-def1c043beff,Hash Health Patch5 Plan,2025-04-10 03:40:58,unknown
+67f7400c-3828-8001-9265-7310c8fec103,Git diverged branch resolution,2025-04-10 03:50:36,unknown
+67f6e235-380c-8001-9fdf-ade3840f1831,Rev12 Patch3 Plan,2025-04-09 21:10:14,unknown
+67f69841-07f8-8001-9bac-e801314e9cf8,Rev12 Tracker Health Script,2025-04-09 15:54:41,unknown
+67f6df5b-a824-8001-b559-416177ac76a8,Patch Development Summary,2025-04-09 20:58:03,unknown
+67f6ae44-7b38-8001-87db-1a0884bc2be2,Emoji Parent-Child Structure,2025-04-09 17:28:37,unknown
+67eacfd9-79f0-8001-b0ae-395193e30ccc,Gray Question Mark Request,2025-03-31 17:24:42,unknown
+67f5e2d5-f7b0-8001-b85a-4ccde6bb4ebd,Email and Message Emojis,2025-04-09 03:00:38,unknown
+67f2d9f4-9e78-8001-871f-87a101ed59b1,Crab Cakes vs Crab Balls,2025-04-06 19:45:56,unknown
+67f5854d-46fc-8001-81a3-372e1128dfc1,Caution Emoji Suggestions,2025-04-08 20:21:33,unknown
+67f5657e-ab08-8001-98e5-e65e6c445188,qBittorrent Hash Health Scan,2025-04-08 18:05:50,unknown
+67f6931d-6e68-8001-94cd-a76c3cc39a85,Interactive Programming Instructions,2025-04-09 15:32:45,unknown
+67f699d8-cc28-8001-be43-e0db718b6205,Delete something completely,2025-04-09 16:01:29,unknown
+67f639d9-edb0-8001-9337-6706aea5daf6,Check logrotate settings,2025-04-09 09:11:54,unknown
+67f3a3cc-78e0-8001-92de-52e6f71d6e99,qBittorrent tracker status codes,2025-04-07 10:07:08,unknown
+67f52327-1ed4-8001-b68b-81bd139d3f50,Sustainment and Cybersecurity Tasks,2025-04-08 13:22:47,unknown
+67f3dd48-4608-8001-9741-cc09a41d2d5b,qbtools Reannounce Feature,2025-04-07 14:12:24,unknown
+67f3d7db-eee8-8001-9fde-f3b33444e19f,Find rean processes,2025-04-07 13:49:16,unknown
+67f3a362-5b8c-8001-961d-8164bc798d42,Tracker status categories,2025-04-07 10:05:23,unknown
+67df0b37-8408-8001-9b6f-1b2ff97a3272,Torrent recheck diagnosis,2025-03-22 19:10:47,unknown
+67f166c8-89e8-8001-a1ba-cbdc4af7ba76,Fix thegeeks trackers,2025-04-05 17:22:17,unknown
+67f32b65-15a8-8001-b571-ac8ded2e8f70,New chat,2025-04-07 01:33:25,unknown
+67f2bea8-ef4c-8001-bdfa-252b8d9a3e7c,Window Snapping Explanation,2025-04-06 17:49:29,unknown
+67f2af69-fec4-8001-86bd-50d86610eb97,Clipboard paste bc5 error,2025-04-06 16:44:26,unknown
+67f1f286-8efc-8001-adf0-b5c8827f438b,Wayland RustDesk Issues,2025-04-06 03:18:31,unknown
+67f09d88-d98c-8001-b730-ba8d441f7b9b,Windows Footprint Optimization Guide,2025-04-05 03:03:37,unknown
+67f13753-8f78-8001-9a9d-15ee18824b69,Paste clipboard as comment,2025-04-05 13:59:47,unknown
+67f0644d-968c-8001-b85c-ebfd2f508388,SSH Agent Forwarding Fix,2025-04-04 22:59:26,unknown
+67ef58ae-56ec-8001-9dc4-d8ba664903d8,Set Windows as Default,2025-04-04 03:57:34,unknown
+67ef151d-4720-8001-9a80-a5e522753c75,WSL path error fix,2025-04-03 23:09:17,unknown
+67ee5f7c-1ac0-8001-8857-d3315d88bc00,RDP on Ubuntu,2025-04-03 10:14:20,unknown
+67dc0c85-a344-8001-b564-337e0318a49f,Whisper GPU Support 940M,2025-03-20 12:39:34,unknown
+67eebccc-fc2c-8001-9c0a-777fb32ed751,xrdp start failure troubleshooting,2025-04-03 16:52:29,unknown
+67eeae81-db08-8001-b001-f4637f9bfdab,Ubuntu window hotkeys,2025-04-03 15:51:30,unknown
+67eeb027-3cdc-8001-9871-d7e178512cdd,Cockpit Autofill Configuration,2025-04-03 15:58:31,unknown
+67eea586-d184-8001-8306-c2e7e52a0337,Reset PC via PS,2025-04-03 15:13:11,unknown
+67ee7771-10dc-8001-9c68-63828877faba,CAC Reader on macOS,2025-04-03 11:56:33,unknown
+67ee5d71-edd8-8001-b279-56142e9e574f,Windows in Ubuntu VM,2025-04-03 10:05:38,unknown
+67ed8a7a-e420-8001-ba9d-c5d784068fcf,Downgrade qBittorrent version,2025-04-02 19:05:31,unknown
+67edfd74-ce04-8001-8fea-106bb096a3f0,Portainer Web Port,2025-04-03 03:16:05,unknown
+67edf731-5170-8001-a0e4-4c0cb1dbeb8c,Tmux server not running,2025-04-03 02:49:21,unknown
+67ede485-911c-8001-a0ae-1616ede7c51a,RDP Setup Guide,2025-04-03 01:29:42,unknown
+67e0171e-c84c-8001-ad9c-c4283a7e131c,OOM kill details,2025-03-23 14:13:51,unknown
+67ed71b3-1e58-8001-9be8-3787d6d79fc8,Case sensitivity issue,2025-04-02 17:19:47,unknown
+67ed48c4-faf8-8001-a7e7-d42dc0c68fec,Session Naming Help,2025-04-02 14:25:09,unknown
+67e97efd-b6d0-8001-873f-6df992c3fe66,File hash tool summary,2025-03-30 17:27:25,unknown
+67ecb013-8364-8001-95bc-fa65e63bf10d,Reorder tmux windows,2025-04-02 03:33:39,unknown
+67ecafcf-19b4-8001-915c-2c730249ef6a,Window list clarification,2025-04-02 03:32:32,unknown
+67eb3bbd-6e38-8001-9e09-298bc0b93bc2,Killing Plex Processes,2025-04-01 01:05:01,unknown
+67e96e0b-df48-8001-892d-1525ac9984fd,Tmux window pane join,2025-03-30 16:15:08,unknown
+67ebba5f-ee50-8001-b7b4-9d64999b538a,Hashall DB Stats Script,2025-04-01 10:05:20,unknown
+67ec0cbe-8384-8001-a9d8-5f3a5ce8c156,DoD Training Requirements Summary,2025-04-01 15:56:47,unknown
+67ec07da-1600-8001-9cad-e3622736e5df,Pause DSM 7 Scrubbing,2025-04-01 15:35:54,unknown
+67eaba85-4798-8001-a42f-52699434df06,DSM 7 CPU Usage,2025-03-31 15:53:41,unknown
+67ea6475-1e68-8001-a8b0-aef0100df30d,Docker hashall scan setup,2025-03-31 09:46:29,unknown
+67ea16ad-dd5c-8001-9239-5887d884f42a,Pegar código e indentação,2025-03-31 04:14:38,unknown
+67e8a4c3-4c4c-8001-b3bf-2084c9e0b952,Data Cleanup Strategy,2025-03-30 01:56:19,unknown
+67e979f5-8714-8001-9d88-a32e34bce014,Custom File Scanner,2025-03-30 17:05:57,unknown
+67e96fc4-6088-8001-a6eb-cc862efa8401,mkvenv Project Creation Clarification,2025-03-30 16:22:28,unknown
+67e82ace-1f7c-8001-bad6-e87fe0ceb8c4,High-Rise Movie Summary,2025-03-29 17:15:58,unknown
+67e85092-5368-8001-9585-3c925a8b04e3,Seeding Directory Sorting,2025-03-29 19:57:06,unknown
+67e84664-c664-8001-abaa-013b21543a75,Update Overseerr Docker,2025-03-29 19:13:41,unknown
+67e713c9-2ae0-8001-9c3c-e4245e66d24c,CLI SSS Search Tool,2025-03-28 21:25:29,unknown
+67e81b62-e418-8001-923a-784875247ab1,Awesome CLI Torrent Tools,2025-03-29 16:10:11,unknown
+67e7887b-3ed0-8001-b793-a403f5fed40a,Forked Repo Setup,2025-03-29 05:43:23,unknown
+67e05a6e-8168-8001-806c-698d8d5e957d,qbit_manage Setup Review,2025-03-23 19:01:03,unknown
+67e6e140-ca8c-8001-8d3c-70157319ac6b,CLI Markdown Viewing,2025-03-28 17:49:53,unknown
+67e7177c-6f64-8001-9833-dd8981d832c1,Find command fix,2025-03-28 21:41:16,unknown
+67e6eade-1818-8001-a519-93ee334fcec5,qbt file not found,2025-03-28 18:30:54,unknown
+67e6db05-4fa4-8001-b884-2b42647adb91,GitHub Repo Fork Script,2025-03-28 17:23:17,unknown
+67e6d050-55e0-8001-863f-f0aca506618f,HTTPie Proxy Usage,2025-03-28 16:37:36,unknown
+67e6d146-2194-8001-b5f6-f78d387677c0,Rename my* to m*,2025-03-28 16:41:42,unknown
+67e6a993-c6c0-8001-8e95-f112d8256ffe,Move tmux Pane Window,2025-03-28 13:52:20,unknown
+67e6a892-85c4-8001-9cd2-da7b06026d90,Resize tmux pane,2025-03-28 13:48:03,unknown
+67e2e5c2-7e90-8001-84ed-f3b8a8ebdf6f,migrate deluge to qbittorrent,2025-03-25 17:20:04,unknown
+67e5d016-aa1c-8001-934d-9163ace5a72b,Searching in Less,2025-03-27 22:24:22,unknown
+67e5ba94-c720-8001-a583-208c3bf8b9ed,Swap Panes in Meld,2025-03-27 20:52:36,unknown
+67e4828a-cca4-8001-8141-b82f73f102dd,Rsync Dryrun and Sync,2025-03-26 22:41:15,unknown
+67e5b7c6-e248-8001-b082-491749493764,Auth0 Free Plan Custom Domain,2025-03-27 20:40:39,unknown
+67e4729e-f8c4-8001-9321-e4fc51c13780,Pause DSM Indexing Quickly,2025-03-26 21:33:19,unknown
+67e5b306-c138-8001-acf6-3e3c7cef2f6d,ZFS ARC Tuning,2025-03-27 20:20:23,unknown
+67e58a8f-2378-8001-ad29-9dc41c77701f,Prowlarr Override Button Explained,2025-03-27 17:27:43,unknown
+67e585d6-adc4-8001-a954-1335e2e03404,Screen Sharing Icon Explained,2025-03-27 17:07:35,unknown
+67e57b19-457c-8001-b2dc-0ba730314bbb,VS Code Extension Issue,2025-03-27 16:21:45,unknown
+67e34839-e8f0-8001-9d77-fc855e0dffca,Plex content not showing,2025-03-26 00:20:10,unknown
+67e4331f-5bdc-8001-b3b5-13fe4a661d07,Logout Ubuntu GUI CLI,2025-03-26 17:02:23,unknown
+67e44182-2048-8001-832a-d027fc1f35e9,NFS Mounts and Fixes,2025-03-26 18:03:46,unknown
+67e37ed3-aa40-8001-a1c0-a64f1bd54bf9,Folder size inquiry,2025-03-26 04:13:08,unknown
+67e35756-62cc-8001-86e6-417b617456f7,Add to .gitignore in VS Code,2025-03-26 01:24:38,unknown
+67e31011-6e34-8001-8683-40f53ecd314f,Projects Repo Strategy,2025-03-25 20:20:34,unknown
+67e33b92-da88-8001-a153-e45b47fd9a79,Cloning GitHub Repo Folder,2025-03-25 23:26:11,unknown
+67deec3d-3f48-8001-90fc-4a1b3a54c82d,SSH Config Error Fix,2025-03-22 16:58:37,unknown
+67a6b968-8c50-8001-a90d-752e556784d0,jdupes Free up NAS space,2025-02-08 01:54:48,unknown
+67e2a712-2000-8001-a687-44f168b59463,Detect orphaned files Deluge,2025-03-25 12:52:35,unknown
+67e29686-c528-8001-8f49-92c9b932a1a8,Move merge folder contents,2025-03-25 11:41:59,unknown
+67e20578-6290-8001-845c-225f0a468b5c,Show dates with tree,2025-03-25 01:23:04,unknown
+67e1b26e-d1d4-8001-8ecf-d20afb72ff2a,Nano fast delete lines,2025-03-24 19:28:47,unknown
+67e1529d-86c4-8001-96e0-6b507f021c75,USN ORM Training Overview,2025-03-24 12:39:57,unknown
+67e14131-106c-8001-9810-0e11cb3daddc,Verify SSH Multiplexing,2025-03-24 11:25:37,unknown
+67e13002-2558-8001-8fbb-97ce513d48bf,Sync tmux from hiker,2025-03-24 10:12:18,unknown
+67e090c2-f6a4-8001-8d06-a92aa6ec88c0,Container Uptime Analysis,2025-03-23 22:52:51,unknown
+67e01022-1878-8001-996e-f55419f384a6,Add uptime feature,2025-03-23 13:44:02,unknown
+67df332c-6054-8001-83f5-76b33a5e9e3c,Snap vs APT Mediainfo,2025-03-22 22:01:16,unknown
+67debf8a-2b68-8001-9d00-6ae86563b73c,Cross-Seed Error Analysis,2025-03-22 13:47:54,unknown
+67de0cf6-620c-8001-9b38-7ebb1689f4be,Prowlarr Docker Glider Issue,2025-03-22 01:05:58,unknown
+67dee505-6788-8001-8d91-c5ea68a2f3b0,rtorrent no vpn access,2025-03-22 16:27:49,unknown
+67dde293-0814-8001-a2eb-308f7dc06e41,FF CPU Spike Fix,2025-03-21 22:05:07,unknown
+67dde88e-a2d0-8001-ac7c-654c9fc6b583,Ubuntu Pro Setup Issues,2025-03-21 22:30:38,unknown
+67ddd946-1774-8001-b85c-6bf3c1f5cc67,HTML Thin Line Boxes,2025-03-21 21:25:26,unknown
+67ddd4c6-40b4-8001-8400-6c4045ddc848,Custom Dark Theme Settings,2025-03-21 21:06:14,unknown
+67ddc9e4-e750-8001-93f3-c13876ca6bf6,MacBook Pro Specs Overview,2025-03-21 20:19:49,unknown
+67ddc75a-a6a4-8001-80e5-93f1fc4c507c,Exclude subfolders in VSC,2025-03-21 20:08:59,unknown
+67dc2206-4ba4-8001-84d4-2be6b7f70a9c,Best Laptop Cooling Pads,2025-03-20 14:11:19,unknown
+67ddb187-1af8-8001-8f8c-b3b93fd4b3c1,Logi Bolt USB Hub Issue,2025-03-21 18:35:51,unknown
+67ddb354-7318-8001-b10e-17df71e8435d,Move VS Code Window,2025-03-21 18:43:32,unknown
+67dd95ae-4924-8001-9418-1f670f4e1b91,CLI Shutdown Commands,2025-03-21 16:37:02,unknown
+67dc0f2f-8694-8001-bd8e-1d206f0e6748,Docker setup for mccloud,2025-03-20 12:50:55,unknown
+67dc6623-4d00-8001-a866-52bc73e566ba,Improve sensors output display,2025-03-20 19:01:55,unknown
+67db4944-e8fc-8001-95af-fa7a7153f82c,HP Victus RAM Upgrade,2025-03-19 22:46:29,unknown
+67dbf197-ab90-8001-a218-d37b116c4e39,Whisper GitHub Setup,2025-03-20 10:44:40,unknown
+67dbe3b5-5294-8001-b720-1625e1d25328,ZRAM and Swap Setup,2025-03-20 09:45:26,unknown
+67dbdc69-ee08-8001-9afb-5e87a15a864a,Regex for Port Number,2025-03-20 09:14:18,unknown
+67db795a-417c-8001-992f-3639dd82ff81,Network Configuration Error Fix,2025-03-20 02:11:39,unknown
+67dae5c7-d6b0-8001-ad87-02851c2e77c2,Edit Prowlarr Settings CLI,2025-03-19 15:42:00,unknown
+67db30c8-5508-8001-b4d7-d82c809b786e,Add bin to PATH,2025-03-19 21:02:00,unknown
+67dadd50-7db4-8001-91cf-47f2ad8c4edd,Flip tmux Panes,2025-03-19 15:05:53,unknown
+67dad21f-a654-8001-9162-e564512e0c3d,Setup QBStatus on Ubuntu,2025-03-19 14:18:08,unknown
+67dad4ce-af2c-8001-976f-dc5fcf92ed7d,Set up SSH Key iSH,2025-03-19 14:29:35,unknown
+67dab4e0-7604-8001-aedb-1a9df7e6aeb6,Copy files via SCP,2025-03-19 12:13:20,unknown
+67dace22-d244-8001-b1c8-695b293f35d6,Find qb_status.py,2025-03-19 14:01:07,unknown
+67dac7fb-f228-8001-9894-6f6dbf445209,qbittorrent installation issues,2025-03-19 13:34:52,unknown
+67b0bfeb-b498-8001-b288-e955cf5b3729,qBittorrent torrent status check,2025-02-15 16:25:15,unknown
+67daaf99-6e78-8001-a477-5ddd9cca09c4,Convert DOS to Linux,2025-03-19 11:50:49,unknown
+67daa28b-8704-8001-acfb-25cf0bcee0b1,WireGuard endpoint IP error,2025-03-19 10:55:07,unknown
+67daa8d0-a954-8001-93f4-faca934f53e1,Renumber tmux window,2025-03-19 11:21:52,unknown
+67da982e-67fc-8001-af9d-4f8b61d088ed,New chat,2025-03-19 10:10:54,unknown
+67da8ff8-4994-8001-869c-8a623b13b26a,VS Code SSH Setup,2025-03-19 09:35:52,unknown
+67d9388f-1ba0-8001-ba49-572b7568da6a,Updated fstab Configuration,2025-03-18 09:10:39,unknown
+67da2a0b-032c-8001-a57b-366f13b91e58,Ignore Lid Close Ubuntu,2025-03-19 02:20:59,unknown
+67d943d7-e6e8-8001-91b8-93876713b4d5,Text Editor Shortcuts Ubuntu,2025-03-18 09:58:48,unknown
+67d99519-fa04-8001-9bb2-d43890b351cd,Presentation Image Creation,2025-03-18 15:45:30,unknown
+67d98f77-1044-8001-85d7-1efe3cfd13d7,Weekly Bullet Update,2025-03-18 15:21:27,unknown
+67d98ee8-e894-8001-831a-603698fc2c52,Docker Migration Strategy Update,2025-03-18 15:19:05,unknown
+67d956ca-f81c-8001-b4ff-fe825c1befa3,SSH Key Change Warning,2025-03-18 11:19:39,unknown
+67d8d2f7-6430-8001-8baa-4289d7785c6d,Folder Structure Organization,2025-03-18 01:57:11,unknown
+67d7feb4-b4b4-8001-8666-1bf83a897cc6,Extract Docker Repo History,2025-03-17 10:51:33,unknown
+67d86edf-6390-8001-b5fd-09b32e137bc1,GitHub Repo Update,2025-03-17 18:50:07,unknown
+67d83150-5e00-8001-a95b-230ecada90cf,Tailscale connectivity issue,2025-03-17 14:27:28,unknown
+67d73837-762c-8001-abc0-b867a333963b,Repo Renaming Strategy,2025-03-16 20:44:40,unknown
+67d80605-c6c4-8001-abdb-c6741b7ea31c,Ubuntu suspend wake issue,2025-03-17 11:22:47,unknown
+67d73023-26f0-8001-8a69-5bc095170964,List repos with GH,2025-03-16 20:10:11,unknown
+67d76984-a168-8001-a318-5647f494aeeb,Install SSH RustDesk Tools,2025-03-17 00:15:00,unknown
+67d0f722-7a98-8001-9750-9791d1a3ca87,Network Configuration Optimization,2025-03-12 02:53:22,unknown
+67cb9630-dc54-8001-ad17-262392ec03cb,WSL Ubuntu Startup Issue,2025-03-08 00:58:25,unknown
+67d151a3-1b6c-8001-9806-1ce9a03a919c,WSL hangs fix,2025-03-12 09:19:31,unknown
+67cf1967-cc94-8001-9f84-c45ebb37235e,pyhost,2025-03-10 16:55:04,unknown
+67d59437-13cc-8001-ba30-c612a4c5adfe,Rsync NFS vs SMB,2025-03-15 14:52:39,unknown
+67d70a10-6aec-8001-a1bb-12020bdce48d,Email in SSH Keygen,2025-03-16 17:27:44,unknown
+67d171aa-e61c-8001-908b-fb1dc8e94a88,MD Civilian Unemployment Benefits,2025-03-12 11:36:11,unknown
+67d2e9a7-d638-8001-8334-c422776f6911,DOD NAVAIR Employee Headcount,2025-03-13 14:20:24,unknown
+67d2c365-73d0-8001-93d3-aa3cc70ac15d,GitHub Config Management Strategy,2025-03-13 11:37:09,unknown
+67d4611c-102c-8001-aa97-002fdc3375f2,Remove Git Folder,2025-03-14 17:02:20,unknown
+67d6fbd3-2dc8-8001-bf9f-0f379438bcff,Install VS Code Linux,2025-03-16 16:26:59,unknown
+67d6da48-353c-8001-84cb-2ed42152f7cb,Glider Docker Setup Guide,2025-03-16 14:03:52,unknown
+67d64585-d704-8001-98ec-17f292f629e7,Change UID for michael,2025-03-16 03:29:10,unknown
+67d6034c-1648-8001-9446-fb2f61707314,Ubuntu 24 Dual Boot LVM,2025-03-15 22:46:36,unknown
+67d19a71-f1e8-8001-aec8-cca2fa98403a,Dual Boot Ubuntu Guide,2025-03-12 14:30:11,unknown
+67d5ab9d-c744-8001-b1bd-4a800d5e70c8,LVM partition creation assistance,2025-03-15 16:32:30,unknown
+67d4ca87-2814-8001-abad-31bec509bc4a,Backup Before Shrinking C:,2025-03-15 00:32:07,unknown
+67d4975f-d198-8001-8ca2-95136ddadb32,Boot Safe Mode Networking,2025-03-14 20:53:52,unknown
+67d2b99e-1894-8001-b341-a28fe92ba33a,Running WSL in VM,2025-03-13 10:55:26,unknown
+67cecddf-7c8c-8001-a6b3-b57c17a18541,MSU Maroon RGB Values,2025-03-10 11:32:47,unknown
+67d1b408-1440-8001-9bd2-b2230f2a72ec,Excel CSV Conversion,2025-03-12 16:19:20,unknown
+67d1e5fe-3744-8001-93f5-236b713e7428,IoT Security Risks,2025-03-12 19:52:30,unknown
+67d1eab8-40b4-8001-baea-0f7ee1b087d6,SCIF Security Protocols,2025-03-12 20:12:41,unknown
+67d17357-f214-8001-af4b-9546265f5175,Job Search Plan TS Clearance,2025-03-12 11:43:20,unknown
+67d0f5d5-3270-8001-9493-2ffcd08b874c,File Analysis Request,2025-03-12 02:47:49,unknown
+67cf8861-2a60-8001-822f-1ab0e98900dc,Slow apt update fix,2025-03-11 00:48:34,unknown
+67ceed6f-b520-8001-ba70-e587954cac1d,System crash troubleshooting,2025-03-10 13:47:28,unknown
+67cee38e-4e74-8001-a63f-e0f6fe2361b0,Ping every 5s,2025-03-10 13:05:18,unknown
+67cebaa6-3e9c-8001-aa72-908f72e58f6e,ChatGPT API Key VSC,2025-03-10 10:10:46,unknown
+67cdaa73-0760-8001-8a9e-d0aad301ecb2,System Freeze Troubleshooting,2025-03-09 14:49:23,unknown
+67ca19d5-d114-8001-8560-b8377e373e54,pihole Multiple IPs for Hosts,2025-03-06 21:55:34,unknown
+67ce010d-74b4-8001-8d63-ec3d2385d19a,Speed up takeown process,2025-03-09 20:58:53,unknown
+67ce08e9-6564-8001-8c3d-64e893b3fd42,Gui terminal,2025-03-09 21:32:25,unknown
+67cdc1ec-0740-8001-a200-f6c0e506e601,Reliable Linux Docker Hardware,2025-03-09 16:29:32,unknown
+67cd1867-4578-8001-8860-eb5d760fb53d,Seeder reboot diagnosis,2025-03-09 04:26:15,unknown
+67cd1b00-aa1c-8001-8d28-f2508641e1b4,Freeze Log Automation,2025-03-09 04:37:20,unknown
+67cc5b32-d4d4-8001-bbd4-67f88068b729,Seeder Down Troubleshooting,2025-03-08 14:58:59,unknown
+67cb704f-00e8-8001-b9f7-c42ceac8f167,Backyard Digging Animals MD,2025-03-07 22:16:47,unknown
+67cb34a8-fb8c-8001-a639-22f1d4c8b55f,Lightweight Browser Docker Setup,2025-03-07 18:02:17,unknown
+67cb2207-0b6c-8001-bd6c-d741b41d7e89,Trim table output,2025-03-07 16:42:47,unknown
+67cae5f5-144c-8001-af06-e10a626dabc6,Tools for Syntax Highlighting,2025-03-07 12:26:29,unknown
+67cac888-1710-8001-9a9f-6134208d3a38,glider RDP Guacamole Network Troubleshooting,2025-03-07 10:20:56,unknown
+67ca4d0a-3b30-8001-b9cf-8851ebb3069b,mac SSH Key tmux Issues,2025-03-07 01:34:02,unknown
+67cacc71-7c4c-8001-b7c5-be2323841383,Folder Tree Comparison,2025-03-07 10:37:37,unknown
+67c9ffad-74c0-8001-8713-a092a59cf90f,DSM 7 Photos Folder Setup,2025-03-06 20:03:57,unknown
+67c9e1e1-2484-8001-a96e-c2c12bab9c6d,Swap entry explanation,2025-03-06 17:56:49,unknown
+67c9c29c-a89c-8001-81a0-445cf7a7e1a5,Load Testing and Monitoring,2025-03-06 15:43:25,unknown
+67c9c4ca-a3c0-8001-ab87-aa5eb15ce112,Liquid Penetrant Inspection Guide,2025-03-06 15:52:43,unknown
+67c970ad-c3d0-8001-91cf-4418327d3338,Access RustDesk via Browser,2025-03-06 09:53:50,unknown
+67c96c05-45a8-8001-990a-73081bef01d5,Swap fstab Bind Mounts,2025-03-06 09:33:58,unknown
+67c8b4e5-9810-8001-a999-fc0100f6b3ff,Text file comparison tools,2025-03-05 20:32:37,unknown
+67c6519e-4864-8001-89fb-325dec5e49a3,Bind mount setup,2025-03-04 01:04:30,unknown
+67c83d26-7378-8001-be89-e637ea743ccd,Server instability troubleshooting,2025-03-05 12:01:43,unknown
+67c60b33-7b3c-8001-889b-c40bb46b9fa4,Tree command one level,2025-03-03 20:04:03,unknown
+67c5cd52-f9ec-8001-ba5f-8755880c8f78,qbt command options,2025-03-03 15:40:03,unknown
+67c5ecfb-ea90-8001-826f-42995017b9d6,CLI ID Groups Clarification,2025-03-03 17:55:08,unknown
+67c60a11-d998-8001-9210-d835a97245fb,WhiteSpaceConflict Folder Renaming,2025-03-03 19:59:14,unknown
+67c60ea4-1ae0-8001-a879-4857c875fb15,Install qbt-cli Fork,2025-03-03 20:18:44,unknown
+67c66bc6-43d8-8001-b437-34f3ec75654b,Gitignore File Conflict Fix,2025-03-04 02:56:06,unknown
+67c6f3c2-99a4-8001-9640-efa8db3855dc,TUI Browser Options,2025-03-04 12:36:18,unknown
+67c6f02a-5834-8001-b4fb-51a99c593cd7,Install torf-cli via pipx,2025-03-04 12:20:58,unknown
+67c7365f-77a0-8001-8589-c93cb04772bf,WireGuard vs OpenVPN CPU,2025-03-04 17:20:31,unknown
+67c74f38-bdac-8001-bbc8-e5db6943b7e3,YAML Syntax Issue Fix,2025-03-04 19:06:33,unknown
+67c76ed5-91fc-8001-8a8b-1dca6e6bb019,qbittorrentui installation guide,2025-03-04 21:21:25,unknown
+67bb714b-fb7c-8001-8804-b72a20101539,HTTP API for TV,2025-02-23 19:04:44,unknown
+67c27f9b-9f98-8001-9752-4f54f919ef05,Cloudflare Tunnel Docker Setup,2025-03-01 03:31:39,unknown
+67c05de0-23d0-8001-aa44-3854f81c7796,Tailscale HTTPS SSH Access,2025-02-27 12:43:12,unknown
+67c3312e-a218-8001-8326-d1ffd41e6f5c,Cloudflare Tunnel Web SSH,2025-03-01 16:09:18,unknown
+67c487a1-cab4-8001-8b8a-dc145f4eb6be,Cloudflare Zero Trust Auth,2025-03-02 16:30:26,unknown
+67c474ad-ad40-8001-be21-1653e92b1428,htop no colores DSM 7,2025-03-02 15:09:33,unknown
+67c47a8e-ab08-8001-96d8-a7282f3a7570,PuTTY SSH Key Setup,2025-03-02 15:34:38,unknown
+67ba9c61-08b8-8001-aefe-6a82c54b6e8a,Road-rash Pain and Treatment,2025-02-23 03:56:17,unknown
+67c1b65d-700c-8001-90fd-61470e008f3f,Love song inquiry,2025-02-28 13:13:36,unknown
+67c36b1c-914c-8001-a6d7-32ff3b455b13,Warpgate HTTPS to SSH,2025-03-01 20:16:28,unknown
+67c39e69-24bc-8001-933f-d2e869fc5d76,WeTTY Docker Image Options,2025-03-01 23:55:21,unknown
+67c3b3b8-46e8-8001-a44a-53383ce69a61,Pull Seeder from GitHub,2025-03-02 01:26:16,unknown
+67c3df00-ffe8-8001-bfcb-d80b4193e9d9,DSM 7 Bind Mount,2025-03-02 04:30:57,unknown
+67c3ec5e-4320-8001-afcc-afeac9a94b01,TV connection troubleshooting,2025-03-02 05:27:58,unknown
+67c1fa1e-8a88-8001-a0ad-47b853d6d68c,MD Driver License & Registration,2025-02-28 18:02:06,unknown
+67c0fa03-33cc-8001-89e2-7103f69b8ea4,Git CLI Commands Guide,2025-02-27 23:49:23,unknown
+67c0be14-ccc8-8001-a643-283e1eeaeaae,Install Google Authenticator DSM 7,2025-02-27 19:33:41,unknown
+67c07bb3-4638-8001-b440-c65868d8fa35,Portable Generators for A/C,2025-02-27 14:50:27,unknown
+67c079be-62e8-8001-9f6f-c33a1bc5b4f2,CAC passkey Bitwarden integration,2025-02-27 14:42:06,unknown
+67bf2e49-9720-8001-8927-b5e1cf40b252,seeder bootup issues,2025-02-26 15:07:54,unknown
+67c03ba8-a03c-8001-8ec4-5facaefab254,crash logger script,2025-02-27 10:17:12,unknown
+67b0a813-0a18-8001-8f8e-fd6ea2fbe15a,Troubleshooting Server Freeze,2025-02-15 14:43:31,unknown
+67bef359-9610-8001-b880-662a07e05a9f,GMKtec NucBox K2 BIOS Update,2025-02-26 10:56:25,unknown
+67bdb49b-d19c-8001-a102-6e20f380a47d,Tailscale Ubuntu Seeder Freeze,2025-02-25 12:16:27,unknown
+67bcd015-0bf0-8001-9dbb-681684b775b2,Setup pmie for freezes,2025-02-24 20:01:25,unknown
+67bc868e-36d8-8001-a197-50a169c2f43e,Track Ubuntu Server Changes,2025-02-24 14:47:42,unknown
+67bc7fbe-b250-8001-8451-2f36a0844fb8,iPad models and OS,2025-02-24 14:18:38,unknown
+67bc4b2e-e1f8-8001-bb5a-485e89672aff,Veth State Changes Explanation,2025-02-24 10:34:23,unknown
+67bb532d-442c-8001-a99d-c52011ac16ea,Sonarr Import Issues,2025-02-23 16:56:13,unknown
+67b9fe5c-9af4-8001-a486-1bc5078d0d2b,Beyond Compare folder display,2025-02-22 16:42:04,unknown
+67b3546f-8564-8001-8aa4-d7c26861b315,Old iPad Southwest Wi-Fi Fix,2025-02-17 15:23:27,unknown
+67b9e940-bf1c-8001-9c27-207f6355e6cf,Permission Denied Error Fix,2025-02-22 15:12:00,unknown
+67b697a6-4420-8001-ba44-fee715d03982,Walmart Online Returns Policy,2025-02-20 02:47:02,unknown
+67b955bc-12d8-8001-a1cd-eaa837ab5bdf,Knee Abrasion Healing Concerns,2025-02-22 04:42:36,unknown
+67b566f0-7fcc-8001-8379-9e17c70eb974,DSM 7 Bind Mount,2025-02-19 05:06:56,unknown
+67b39c01-9e3c-8001-813d-9bb17b55163d,Deluge Console Usernames,2025-02-17 20:28:49,unknown
+67b35d0f-f0fc-8001-adb7-33cc6d0efb92,ConfigParser Debugging Steps,2025-02-17 16:00:16,unknown
+67b30469-e294-8001-aba5-23096aa3c0e6,qBittorrent incomplete file error,2025-02-17 09:42:02,unknown
+67b28364-613c-8001-8a4c-c026c38b0123,RP 146 Pill Identification,2025-02-17 00:31:32,unknown
+67b21fdf-1f3c-8001-bbd5-9e034ae51ba0,Deselect files in qBittorrent,2025-02-16 17:26:55,unknown
+67b2145e-340c-8001-bfe4-4ff89db46326,File Upload Limit,2025-02-16 16:37:50,unknown
+67b0af79-c998-8001-a196-50736dccfbde,Save tmux buffer fast,2025-02-15 15:15:06,unknown
+67afc01c-8550-8001-8cde-f6251e0d2db5,Missing bs4 Module,2025-02-14 22:13:49,unknown
+67a90a3c-313c-8001-affd-02b611a0c3ee,DataDirs Permissions Troubleshooting,2025-02-09 20:04:12,unknown
+67adc02a-aa7c-8001-9640-a59b865638f9,SubGen GitHub Projects,2025-02-13 09:49:31,unknown
+67ac1999-8248-8001-975c-ccbe64139454,Move Torrent Data Deluge,2025-02-12 03:46:33,unknown
+67ae4baa-c6d8-8001-818a-794a1c9f07da,NAVAIR Training Query,2025-02-13 19:44:43,unknown
+67acc30a-dad8-8001-ba83-00a701a98ab6,Deluge multiple settings adjustment,2025-02-12 15:49:31,unknown
+67ac0908-0f68-8001-b754-0d32c12dfa19,Move Orphans with Rsync,2025-02-12 02:35:52,unknown
+67a7964c-2920-8001-9c4e-da7aa9ef97c3,Tmux move pane guide,2025-02-08 17:37:16,unknown
+67ab7893-6d1c-8001-a4d4-59860cb2142b,Cross-seed GitHub Setup,2025-02-11 16:19:31,unknown
+67aa5728-e9a4-8001-8870-a65849693612,Monitor DSM Free Space,2025-02-10 19:44:41,unknown
+67a949a3-8500-8001-9dba-61fd062991df,Zsync file size calculation,2025-02-10 00:34:43,unknown
+67a6361f-5928-8001-a770-d179297d324e,HP Email to Printer,2025-02-07 16:34:39,unknown
+67a57c62-caa8-8001-ac34-0e6b223e4d1d,Colorize dmesg Output,2025-02-07 03:22:11,unknown
+67a68587-ef24-8001-8546-9cba6e33daf3,Multiple Torrent Client Setup,2025-02-07 22:13:28,unknown
+67a681eb-f72c-8001-82e4-b4008670c76c,Analyze OOM qBittorrent,2025-02-07 21:58:04,unknown
+679f9c07-63b0-8001-b42e-7ab00a465798,qBittorrent Config Tweaks,2025-02-02 16:23:35,unknown
+67a675f8-2ed8-8001-ba11-de9d037ef3ac,Test successful,2025-02-07 21:07:04,unknown
+67a62b7f-7174-8001-b326-ec9c0f405f48,Karabiner-Elements Mouse Remap Issue,2025-02-07 15:49:19,unknown
+67a61cfb-a544-8001-ab65-2e1dc35d5a5e,Remove Orphans and Prune,2025-02-07 14:47:23,unknown
+67a4f61f-4588-8001-8489-1ab765fcb62c,systemd-journald error fix,2025-02-06 17:49:19,unknown
+67a52cf0-d428-8001-8102-ae1bef224ab5,Reassign MX 3S Buttons,2025-02-06 21:43:13,unknown
+67a52221-fcec-8001-9cd2-7fe1d0af98f8,Watch top command breakdown,2025-02-06 20:57:06,unknown
+67a4b492-5d18-8001-baab-8b9e50a1e195,Copy tracker to Deluge,2025-02-06 13:09:38,unknown
+67a4b343-6fcc-8001-8902-264c51320ce6,Tracker transfer solution,2025-02-06 13:04:03,unknown
+67a38302-e6fc-8001-a0fe-ad8b9ae140cf,Sony TV Input LAN,2025-02-05 15:25:55,unknown
+67a22b02-f9fc-8001-a081-009561f7ba5f,ZFS Pool Stability Testing,2025-02-04 14:58:11,unknown
+67a19049-c784-8001-b307-d395818e170e,Install ruTorrent Ubuntu 24,2025-02-04 03:58:02,unknown
+67a0dee6-13b8-8001-ad4e-83b2e9920390,qBittorrent to Deluge Transfer,2025-02-03 15:21:10,unknown
+679d0465-78a4-8001-affc-4c1e5684fb1e,ROCm installation issue,2025-01-31 17:12:05,unknown
+679e59f0-3598-8001-bbfa-904356c33ca6,Impersonation Dependency Setup,2025-02-01 17:29:20,unknown
+679b95b3-e49c-8001-8ce5-68ae08faa904,Mark Milley Controversy,2025-01-30 15:07:32,unknown
+679b6f15-8818-8001-ab40-36fecf538456,Swap MX Master Buttons,2025-01-30 12:22:45,unknown
+679b6d51-6d1c-8001-a14e-dc40292ad5c6,Start Plex DSM 7,2025-01-30 12:15:13,unknown
+679ae081-a5a0-8001-9a34-318d5f5659aa,BC5 Filter Nintendo Folders,2025-01-30 02:14:25,unknown
+67991438-8c64-8001-8208-4dfc018e8085,Script Update Request,2025-01-28 17:30:32,unknown
+6798e48e-408c-8001-82ff-5e5953d5215a,ZFS pool suspended errors,2025-01-28 14:07:10,unknown
+679868ef-a30c-8001-bc3b-de5dbf3e5be0,Gluetun container startup delay,2025-01-28 05:19:44,unknown
+6793e173-9ec4-8001-b126-4268694d1742,Gluetun network configuration fix,2025-01-24 18:52:35,unknown
+6793173f-a650-8001-a0aa-8fdf6dc14111,Linux RAID 0 Options,2025-01-24 04:29:51,unknown
+679383c7-a970-8001-85dd-9806f0c41a09,Script Update Instructions,2025-01-24 12:12:55,unknown
+6792fa20-6de8-8001-a8c6-46e49cce7fc4,Handle missing conf file,2025-01-24 02:25:36,unknown
+678e70e1-4380-8001-937a-ef51fc95bbe9,Btrfs LVM ZFS Comparison,2025-01-20 15:50:57,unknown
+678e69e7-c340-8001-b12f-ffbc492b50de,WD Red Drive Failure,2025-01-20 15:21:12,unknown
+678d7d3d-80ec-8001-9df5-33a915cbe106,GPG pass troubleshooting,2025-01-19 22:31:25,unknown
+67856d08-40d0-8001-9e4f-831679c1de6e,WeeChat Docker Headless Setup,2025-01-13 19:44:08,unknown
+678672bd-5918-8001-aa05-aed93501f988,WeeChat relay setup,2025-01-14 14:20:45,unknown
+67855e14-1580-8001-8e09-e21c96a912bc,Unable to locate package,2025-01-13 18:40:20,unknown
+6785305f-5278-8001-9958-c165e593bc39,WeeChat Secure Setup,2025-01-13 15:25:19,unknown
+67849235-dbc0-8001-8bbf-c7e3722defa8,Coronado Bay Seismic Study,2025-01-13 04:10:30,unknown
+67846859-a418-8001-bc2b-63a307b14d51,Logout Apple TV Remotely,2025-01-13 01:11:54,unknown
+67846218-c660-8001-a9be-05335c47d5f1,1968 Mustang Roof Repair,2025-01-13 00:45:13,unknown
+678449b6-bfa8-8001-8c4b-f9a060f80d3b,Wicked 2024 Sing-Along,2025-01-12 23:01:10,unknown
+67803443-7f30-8001-bf82-dd1a248b4a38,Handling special characters in cp,2025-01-09 20:40:35,unknown
+6776f6df-9c88-8001-89f3-303c87e5ffef,Log Processing Enhancement,2025-01-02 20:28:15,unknown
+67764780-5ac0-8001-9219-e20eff98bdbb,DSM API Logging Data,2025-01-02 08:00:00,unknown
+677639d0-0e54-8001-bd61-0e43a7530800,Log Timestamp Fix,2025-01-02 07:01:36,unknown
+67762ede-0ea4-8001-83b0-39d0147fd6ad,Script Improvement Suggestions,2025-01-02 06:14:54,unknown
+6774bc8a-3768-8001-9825-336a843a1462,Edit request in Overseerr,2025-01-01 03:54:50,unknown
+676e251c-8450-8001-b7ab-3eb64db99b14,Plex Watchlist Movie Removal,2024-12-27 03:55:08,unknown
+676c9a82-0cd8-8001-b80d-c0f018fa9f29,MacBook Air keyboard issue,2024-12-25 23:51:30,unknown
+676ae201-f1c4-8001-9c5c-1e120f807b66,Firefox Container CLI Setup,2024-12-24 16:32:02,unknown
+676ac4fa-9380-8001-8a74-e7b99f8a7adb,Firefox Container CLI Setup,2024-12-24 14:28:11,unknown
+6769a6ee-7f00-8001-b72e-beacc5edcd2e,Firefox Container CLI Setup,2024-12-23 18:07:42,unknown
+67671eb3-67d4-8001-b3ac-aca205cee468,Disable Hardware Acceleration Firefox,2024-12-21 20:01:55,unknown
+676711ba-f014-8001-8597-c0762558996c,Right Recliner Not Working,2024-12-21 19:06:35,unknown
+6765a545-72e0-8001-b637-d8db26ae9ba4,Copy Hardlink with Structure,2024-12-20 17:11:33,unknown
+6762b293-edc0-8001-a5bf-d385e34c25f1,Best Torrent Client Ubuntu,2024-12-18 11:31:32,unknown
+676248c9-5918-8001-a7e0-120798f67912,Yellowstone Series Finale,2024-12-18 04:00:09,unknown
+6761b74f-1fd4-8001-80db-86d9f2659cc1,Colored Bash Prompt Setup,2024-12-17 17:39:27,unknown
+67604ab2-91c0-8001-8b4d-30d24b8e5bf5,Last Minute Gift Ideas,2024-12-16 15:43:46,unknown
+67562e0a-8958-8001-9c9a-e60f821312fc,yt-dlp robust download cookies,2024-12-08 23:38:50,unknown
+6759bd7a-bdcc-8001-a118-dd367acabf02,Koder select all text,2024-12-11 16:27:38,unknown
+6759bd40-fe04-8001-b2df-3b323ac0c9b3,Koder select all text,2024-12-11 16:26:41,unknown
+6751077d-b650-8001-a6a6-28d71905d8c8,Sudo without password WSL,2024-12-05 01:53:01,unknown
+67559aa0-5fe8-8001-8ac7-4419f7b124b9,Flipper Zero Overview,2024-12-08 13:09:52,unknown
+674fb126-8758-8001-983a-07a069056f26,Raw dogging definition,2024-12-04 01:32:22,unknown
+67492f70-f8ec-8001-b9af-a22634def985,Check Linux Mint Version,2024-11-29 03:05:21,unknown
+673f7fd0-45d8-8001-985d-aa6770e2a7d4,2x6 Lumber Dimensions,2024-11-21 18:45:36,unknown
+673f2331-0514-8001-96d3-70baa89a5986,qBittorrent path update fix,2024-11-21 12:10:25,unknown
+672e5060-fbf4-8001-ae64-80ae84b4b79a,Pilot hole size,2024-11-08 17:54:51,unknown
+672d36d8-b82c-8001-90e1-865b26e66294,Add IP to exports,2024-11-07 21:53:28,unknown
+672bfa63-8120-8001-aa27-b1397926d42d,Same-Sex Marriage in US,2024-11-06 23:23:18,unknown
+672a450e-68bc-8001-b801-1ee6aa8c6e7a,Set Default User WSL,2024-11-05 16:17:18,unknown
+6727a995-500c-8001-a317-3016dd844b7f,2025 Inauguration Location DC,2024-11-03 16:49:25,unknown
+672503b6-6394-8001-94bf-1c1746cd1262,Rsync Log Filtering Help,2024-11-01 16:37:10,unknown
+671bdd69-b868-8001-91ac-30a856a9fec6,Accessing Anaconda Cloud via Miniconda,2024-10-25 18:03:21,unknown
+6719736f-46d4-8001-bce4-44e5cfa0c1ee,Ubuntu vs Mint for Docker,2024-10-23 22:06:39,unknown
+67197217-72b4-8001-bfa9-a87fb8f562bc,Renaissance Mars Rover Painting,2024-10-23 22:00:55,unknown
+67141a31-52dc-8001-b476-fdbcdc77b66b,2025 PHEV SUVs Towing Capacity,2024-10-19 20:44:33,unknown
+6711dfa7-50ec-8001-a84d-976b24e3c34a,Comfortable Cross Country Vehicles,2024-10-18 04:10:15,unknown
+670bfe08-8430-8001-afdd-2c3ce07f93b5,Towing Vehicles with MPG,2024-10-13 17:06:16,unknown
+670fadca-c830-8001-9f4e-1cdc48c6e1cb,GitHub for Homelab Configs,2024-10-16 12:12:59,unknown
+670b28da-53d0-8001-b4f9-bc12c0f64442,Vehicles 5000lbs tow 30mpg,2024-10-13 01:56:42,unknown
+66e34024-ae38-8001-a2cc-d0fda328de28,Registering to Vote Maryland,2024-09-12 19:25:24,unknown
+b7c513db-e2a3-4faa-9f7a-c200f8a3f440,BakerBoy Scripts Setup,2024-08-31 16:28:39,unknown
+377a3808-0191-4aef-ab89-b6d9c125d4eb,Automate Anaconda Script Startup,2024-08-31 21:52:07,unknown
+26c598f3-3059-4438-b870-0d74be94b1a5,Avistaz Sister Sites Summary,2024-08-31 21:10:11,unknown
+35c1c323-3cff-454a-82a3-ee4fd8c92025,Deactivating Python Virtual Env,2024-08-30 18:18:02,unknown
+9a0fc680-9fe3-40a0-99e8-2b39d20ea438,Presidential Term Limits Overview,2024-07-05 16:44:40,unknown
+b00d6016-05b3-456b-b419-b0b2c88c51b9,Linux Command History Search,2024-06-11 16:07:02,unknown
+dcc13738-b46c-4ad4-8fb5-babbf5095356,Search Creative Images Number,2023-11-20 00:24:29,unknown
+aa8e3622-b323-41ec-b02a-3bd3f06b527b,New chat,2023-10-28 16:04:42,unknown
+461e0662-31e5-41b9-84a1-cd49e8720a11,Dali-inspired Mountain Bike Tattoo,2023-10-28 15:53:23,unknown
+216479fa-acd4-41b2-9f59-53762ab4ada1,Reduce Nausea on Wegovy,2023-04-07 18:17:15,unknown
+1397769a-1661-4864-b197-f13aeb8b5e16,PNT for RSO Detection.,2023-04-07 17:36:48,unknown
+437f92c7-3145-4b04-9d90-65bba6274cde,Draper SkyMark Unavailable.,2023-04-07 17:35:40,unknown
+7a5d98fd-14b4-4801-b3b1-94d88af47974,GNC vs PNT.,2023-04-07 17:30:58,unknown
