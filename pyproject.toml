@@ -1,0 +1,22 @@
+[project]
+name = "rehash"
+version = "0.1.0"
+description = "ChatGPT JSON export parser"
+authors = [{ name = "Michael Braband" }]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "rich",
+    "pyyaml",
+    "jmespath"
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+rehashit = "rehash.__main__:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

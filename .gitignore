@@ -1,31 +1,46 @@
-# Python
+# ───────── Python Artifacts ─────────
 __pycache__/
 *.py[cod]
 *.egg-info/
+*.egg
 dist/
 build/
 
-# Virtual environments
+# ─────── Editable Install Metadata ────────
+src/rehash.egg-info/
+
+# ─────── Virtual Environments ───────
 .venv/
 env/
 venv/
 
-# IDEs & editors
+# ─────── IDEs & Editors ───────
 .vscode/
 .idea/
 *.code-workspace
 
-# OS junk
+# ─────── OS-Specific Junk ───────
 .DS_Store
 Thumbs.db
 
+# ─────── Dev & Runtime Output ───────
+.output/
+.pytest_cache/
+.cache/
+.coverage
+htmlcov/
+
+# ─────── Non-source Project Data ───────
 data/
 testdata/
 .meta.json
 
-# 🔒 Ignore archived dev builds, but keep the folder
+# ─────── Archived & Legacy Code ───────
 archive/dev_builds/*
 !archive/dev_builds/.keep
 ./rehash/
-.output/
-.pytest_cache/
+
+# ─────── Logs / Temp Files ───────
+*.log
+*.tmp
+tmp_*.txt
