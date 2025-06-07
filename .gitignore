@@ -26,3 +26,6 @@ testdata/
 # 🔒 Ignore archived dev builds, but keep the folder
 archive/dev_builds/*
 !archive/dev_builds/.keep
+./rehash/
+.output/
+.pytest_cache/
