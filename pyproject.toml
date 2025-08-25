@@ -1,10 +1,11 @@
 [project]
 name = "rehash"
-version = "0.1.0"
+dynamic = ["version"]
 description = "ChatGPT JSON export parser"
 authors = [{ name = "Michael Braband" }]
 readme = "README.md"
 requires-python = ">=3.9"
+
 dependencies = [
     "rich",
     "pyyaml",
@@ -12,11 +13,31 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["pytest"]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "ruff",
+    "mypy"
+]
 
 [project.scripts]
 rehashit = "rehash.__main__:main"
+rehash = "rehash.cli:main"
 
 [build-system]
-requires = ["setuptools"]
+requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.dynamic]
+version = {attr = "rehash.__version__"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "--cov=src/rehash --cov-report=term-missing"
+testpaths = ["tests"]
+pythonpath = "src"
