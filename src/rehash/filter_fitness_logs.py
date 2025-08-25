@@ -1,18 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-filter_fitness_logs.py
-
-🧠 Logic to filter ChatGPT conversations based on fitness relevance.
-
-Heuristics include:
-- Title keywords (phd, fitness, log, workout)
-- Assistant message content scanning (optional)
-"""
+# src/rehash/filter_fitness_logs.py
 
 import re
-from typing import List, Dict
-
 
 FITNESS_TITLE_PATTERNS = [
     r"\bphd\b",
@@ -21,6 +9,7 @@ FITNESS_TITLE_PATTERNS = [
     r"\blog\b",
     r"\btraining\b",
     r"\bprogress\b",
+    r"\bperfit\b",
 ]
 
 FITNESS_MESSAGE_PATTERNS = [
@@ -33,42 +22,44 @@ FITNESS_MESSAGE_PATTERNS = [
 
 
 def is_fitness_title(title: str) -> bool:
-    """Returns True if title suggests it's fitness-related."""
-    title = title.lower()
-    return any(re.search(p, title) for p in FITNESS_TITLE_PATTERNS)
+    """Check if title matches fitness-related keywords."""
+    if not title:
+        return False
+    return any(re.search(p, title, re.IGNORECASE) for p in FITNESS_TITLE_PATTERNS)
 
 
-def is_fitness_conversation(conversation: Dict) -> bool:
-    """
-    Check if conversation appears to be fitness/workout related.
-
-    Uses:
-    - Title keyword match
-    - Assistant message content match (optional)
-
-    Args:
-        conversation (Dict): A ChatGPT conversation object
-
-    Returns:
-        bool: True if fitness-related
-    """
-    title = conversation.get("title", "").lower()
-    if is_fitness_title(title):
+def is_fitness_conversation(conversation: dict) -> bool:
+    """Check if a conversation is fitness-related by title or assistant messages."""
+    # Title check
+    if is_fitness_title(conversation.get("title", "")):
         return True
 
-    for message in conversation.get("mapping", {}).values():
-        if (
-            isinstance(message, dict)
-            and message.get("message")
-            and message["message"].get("author", {}).get("role") == "assistant"
-        ):
-            content = message["message"].get("content", {}).get("parts", [""])[0]
-            if any(re.search(p, content, re.IGNORECASE) for p in FITNESS_MESSAGE_PATTERNS):
-                return True
+    # Message content check
+    mapping = conversation.get("mapping", {})
+    for msg in mapping.values():
+        if not isinstance(msg, dict):
+            continue
+        message = msg.get("message")
+        if not isinstance(message, dict):  # ✅ guard against None or wrong type
+            continue
+        if message.get("author", {}).get("role") != "assistant":
+            continue
+
+        parts = message.get("content", {}).get("parts", [])
+        if not parts:
+            continue
+
+        # Extract first part, coerce to string safely
+        content = parts[0]
+        if not isinstance(content, str):
+            content = str(content)
+
+        if any(re.search(p, content, re.IGNORECASE) for p in FITNESS_MESSAGE_PATTERNS):
+            return True
 
     return False
 
 
-def filter_fitness_conversations(conversations: List[Dict]) -> List[Dict]:
-    """Filter only fitness-relevant conversations from export list."""
+def filter_fitness_conversations(conversations: list[dict]) -> list[dict]:
+    """Return only fitness-related conversations from list."""
     return [conv for conv in conversations if is_fitness_conversation(conv)]

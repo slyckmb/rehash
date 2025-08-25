@@ -6,10 +6,9 @@ emit_structured_json.py
 📤 Emit individual JSON files from a structured conversation export list.
 """
 
-import os
 import json
 from pathlib import Path
-from typing import Any, List, Dict
+from typing import List, Dict
 from datetime import datetime
 import re
 
@@ -37,16 +36,14 @@ def emit_conversations(conversations: List[Dict], output_dir: Path) -> List[Path
     output_paths = []
 
     for convo in conversations:
-        # Fallback timestamp if missing
-        
-        ts: Any = convo.get("timestamp") or convo.get("create_time")
-        
-        if ts is None:
-            raise ValueError(f"Missing timestamp in conversation: {convo.get('title', '[no title]')}")
-        
+        ts = convo.get("create_time") or convo.get("timestamp") or "0"
         try:
-            ts = float(ts)
-        except (TypeError, ValueError):
+            # ➕ Support ISO8601 parsing
+            if isinstance(ts, str) and "T" in ts:
+                ts = datetime.fromisoformat(ts.replace("Z", "+00:00")).timestamp()
+            else:
+                ts = float(ts)
+        except Exception:
             raise ValueError(f"Invalid timestamp: {ts} in conversation: {convo.get('title', '[no title]')}")
         
         dt = datetime.fromtimestamp(ts)
