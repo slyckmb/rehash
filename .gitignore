@@ -29,6 +29,7 @@ Thumbs.db
 .cache/
 .coverage
 htmlcov/
+coverage.svg
 
 # ─────── Non-source Project Data ───────
 data/
@@ -44,3 +45,8 @@ archive/dev_builds/*
 *.log
 *.tmp
 tmp_*.txt
+.venv_name
+
+tmp/
+out.json/
+coverage.json
